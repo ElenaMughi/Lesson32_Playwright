@@ -1,0 +1,26 @@
+{
+  "name": "lesson3.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "playwright"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenaMughi/Lesson32_Playwright.git"
+  },
+  "author": "Vasilyuk EN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElenaMughi/Lesson32_Playwright/issues"
+  },
+  "homepage": "https://github.com/ElenaMughi/Lesson32_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2",
+    "playwright": "^1.22.2"
+  }
+}
